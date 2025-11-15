@@ -1,0 +1,31 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,Tenure,PhoneService,InternetService,Contract,PaymentMethod,MonthlyCharges,TotalCharges,Churn
+001,Female,0,Yes,No,5,Yes,Fiber optic,Month-to-month,Credit card,75.35,350.5,Yes
+002,Male,1,No,No,42,Yes,DSL,One year,Electronic check,56.95,2254.3,No
+003,Female,0,Yes,Yes,2,No,None,Month-to-month,Credit card,19.85,39.7,Yes
+004,Male,0,No,No,8,Yes,Fiber optic,Month-to-month,Electronic check,85.00,680.0,Yes
+005,Female,0,Yes,No,20,Yes,DSL,Two year,Bank transfer,49.90,998.0,No
+006,Male,1,No,No,3,Yes,Fiber optic,Month-to-month,Credit card,95.70,287.1,Yes
+007,Female,0,Yes,Yes,60,Yes,DSL,Two year,Credit card,65.60,3936.0,No
+008,Female,1,No,No,15,Yes,Fiber optic,Month-to-month,Electronic check,90.10,1351.5,Yes
+009,Male,0,Yes,No,10,Yes,DSL,One year,Bank transfer,55.15,551.5,No
+010,Female,0,Yes,Yes,34,Yes,Fiber optic,One year,Credit card,80.85,2748.9,No
+011,Male,0,No,No,7,Yes,Fiber optic,Month-to-month,Electronic check,88.90,622.3,Yes
+012,Female,0,Yes,No,24,Yes,DSL,Two year,Bank transfer,52.40,1257.6,No
+013,Male,1,Yes,Yes,1,No,None,Month-to-month,Electronic check,19.35,19.35,Yes
+014,Female,0,No,No,52,Yes,DSL,One year,Credit card,60.55,3148.6,No
+015,Male,0,Yes,No,6,Yes,Fiber optic,Month-to-month,Bank transfer,99.30,595.8,Yes
+016,Female,1,No,No,11,Yes,DSL,One year,Electronic check,53.25,585.7,No
+017,Male,0,Yes,Yes,28,Yes,Fiber optic,Month-to-month,Credit card,92.20,2581.6,Yes
+018,Female,0,Yes,No,48,Yes,DSL,Two year,Bank transfer,49.30,2366.4,No
+019,Male,0,No,No,4,Yes,Fiber optic,Month-to-month,Electronic check,89.90,359.6,Yes
+020,Female,1,Yes,Yes,38,Yes,DSL,One year,Credit card,58.70,2230.6,No
+021,Male,0,Yes,No,16,Yes,Fiber optic,Month-to-month,Credit card,97.85,1565.6,Yes
+022,Female,0,No,No,55,Yes,DSL,Two year,Electronic check,62.20,3421.0,No
+023,Male,1,Yes,No,22,Yes,Fiber optic,Month-to-month,Bank transfer,91.55,2014.1,Yes
+024,Female,0,Yes,Yes,13,Yes,DSL,One year,Credit card,57.45,746.9,No
+025,Male,0,No,No,9,Yes,Fiber optic,Month-to-month,Electronic check,87.75,789.7,Yes
+026,Female,1,Yes,No,46,Yes,DSL,Two year,Bank transfer,50.60,2327.6,No
+027,Male,0,Yes,Yes,30,Yes,Fiber optic,Month-to-month,Credit card,93.10,2793.0,Yes
+028,Female,0,No,No,18,Yes,DSL,One year,Bank transfer,54.75,985.5,No
+029,Male,1,Yes,No,14,Yes,Fiber optic,Month-to-month,Electronic check,96.45,1350.3,Yes
+030,Female,0,Yes,Yes,40,Yes,DSL,Two year,Credit card,66.80,2672.0,No
