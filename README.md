@@ -5,6 +5,7 @@ Analyzing customer behavior using Python
 Building an interactive dashboard in Power BI
 Generating insights to support business decision-making
 The dataset contains customer demographics, service usage, contract type, monthly charges, tenure, and churn status.
+
 🛠️ Tools & Technologies
 *Python
 *pandas
@@ -33,6 +34,7 @@ Month-to-month contract customers show the highest churn.
 Fiber optic users churn more compared to DSL users.
 Customers with higher monthly charges have a higher churn rate.
 Customers with low tenure (new users) churn more frequently.
+
 📈 Power BI Dashboard Features
 *Churn Rate KPI
 *Churn vs Non-Churn Donut Chart
@@ -40,15 +42,16 @@ Customers with low tenure (new users) churn more frequently.
 *Internet Service Distribution Tree Map
 *Monthly Charges Trend Line Chart
 *Interactive Slicers for gender, contract, payment method, and more
+
 🧪 How to Run the Python Script
 *Install required libraries:
 pip install pandas numpy matplotlib seaborn
 *Place the CSV file in the same folder.
 *Run the script:
 python customer_churn_analysis.py
+
 🎯 Outcome
 This project provides data-driven insights to:
-
 *Reduce churn
 *Improve customer retention
 *Understand service-related issues
